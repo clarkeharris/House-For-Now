@@ -1,0 +1,26 @@
+body {
+	padding: 19em 0 0 0;
+	background-color: #F5F4F2;	
+}
+
+section {
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.4em;
+	font-weight: lighter;
+	color: #333;
+}
+
+
+a {	
+	font-size: 1.0em;
+	text-decoration: none;
+	font-style: italic;
+	color: #333;
+}
+
+a:hover {
+	color: #FF4600;
+}
